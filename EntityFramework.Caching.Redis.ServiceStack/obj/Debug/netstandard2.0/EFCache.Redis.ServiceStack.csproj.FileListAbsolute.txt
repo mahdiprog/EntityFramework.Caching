@@ -1,0 +1,5 @@
+D:\projects\EFCache-master\EFCache.Redis.ServiceStack\bin\Debug\netstandard2.0\EFCache.Redis.ServiceStack.deps.json
+D:\projects\EFCache-master\EFCache.Redis.ServiceStack\bin\Debug\netstandard2.0\EFCache.Redis.ServiceStack.dll
+D:\projects\EFCache-master\EFCache.Redis.ServiceStack\obj\Debug\netstandard2.0\EFCache.Redis.ServiceStack.csproj.CoreCompileInputs.cache
+D:\projects\EFCache-master\EFCache.Redis.ServiceStack\obj\Debug\netstandard2.0\EFCache.Redis.ServiceStack.AssemblyInfoInputs.cache
+D:\projects\EFCache-master\EFCache.Redis.ServiceStack\obj\Debug\netstandard2.0\EFCache.Redis.ServiceStack.AssemblyInfo.cs

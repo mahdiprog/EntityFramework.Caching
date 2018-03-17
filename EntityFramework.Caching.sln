@@ -1,0 +1,79 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EntityFramework.Caching.Cache", "EntityFramework.Caching.Cache\EntityFramework.Caching.Cache.csproj", "{ED6F66AC-B415-46A8-A86B-E69158B23D2D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EntityFramework.Caching.Redis.StackExchange", "EntityFramework.Caching.Redis.StackExchange\EntityFramework.Caching.Redis.StackExchange.csproj", "{CA53576F-ACC8-46D2-BF7F-842A05F15161}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EntityFramework.Caching.Redis.ServiceStack", "EntityFramework.Caching.Redis.ServiceStack\EntityFramework.Caching.Redis.ServiceStack.csproj", "{DCDFDEE6-0DAD-4884-A358-D4403BE9A763}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EntityFramework.Caching.Abstractions", "EntityFramework.Caching.Abstractions\EntityFramework.Caching.Abstractions.csproj", "{52D4975F-77C5-4CF9-8B91-E0525B6659A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tester", "Tester\Tester.csproj", "{2AAEC039-7252-443F-AF00-0847C9B99E5D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityFramework.Caching.InMemory", "EntityFramework.Caching.InMemory\EntityFramework.Caching.InMemory.csproj", "{AF252AFC-A9D0-45E0-9915-6F3EF75A0F90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED6F66AC-B415-46A8-A86B-E69158B23D2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED6F66AC-B415-46A8-A86B-E69158B23D2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED6F66AC-B415-46A8-A86B-E69158B23D2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED6F66AC-B415-46A8-A86B-E69158B23D2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA53576F-ACC8-46D2-BF7F-842A05F15161}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA53576F-ACC8-46D2-BF7F-842A05F15161}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA53576F-ACC8-46D2-BF7F-842A05F15161}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA53576F-ACC8-46D2-BF7F-842A05F15161}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCDFDEE6-0DAD-4884-A358-D4403BE9A763}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCDFDEE6-0DAD-4884-A358-D4403BE9A763}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCDFDEE6-0DAD-4884-A358-D4403BE9A763}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCDFDEE6-0DAD-4884-A358-D4403BE9A763}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52D4975F-77C5-4CF9-8B91-E0525B6659A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52D4975F-77C5-4CF9-8B91-E0525B6659A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52D4975F-77C5-4CF9-8B91-E0525B6659A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52D4975F-77C5-4CF9-8B91-E0525B6659A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2AAEC039-7252-443F-AF00-0847C9B99E5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AAEC039-7252-443F-AF00-0847C9B99E5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AAEC039-7252-443F-AF00-0847C9B99E5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AAEC039-7252-443F-AF00-0847C9B99E5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF252AFC-A9D0-45E0-9915-6F3EF75A0F90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF252AFC-A9D0-45E0-9915-6F3EF75A0F90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF252AFC-A9D0-45E0-9915-6F3EF75A0F90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF252AFC-A9D0-45E0-9915-6F3EF75A0F90}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D4F341B4-FC5E-4292-A84E-76D0FA30AE3E}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 7
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://abdolvahab.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = EntityFramework.Caching.Abstractions\\EntityFramework.Caching.Abstractions.csproj
+		SccProjectName1 = EntityFramework.Caching.Abstractions
+		SccLocalPath1 = EntityFramework.Caching.Abstractions
+		SccProjectUniqueName2 = EntityFramework.Caching.Cache\\EntityFramework.Caching.Cache.csproj
+		SccProjectName2 = EntityFramework.Caching.Cache
+		SccLocalPath2 = EntityFramework.Caching.Cache
+		SccProjectUniqueName3 = EntityFramework.Caching.Redis.ServiceStack\\EntityFramework.Caching.Redis.ServiceStack.csproj
+		SccProjectName3 = EntityFramework.Caching.Redis.ServiceStack
+		SccLocalPath3 = EntityFramework.Caching.Redis.ServiceStack
+		SccProjectUniqueName4 = EntityFramework.Caching.Redis.StackExchange\\EntityFramework.Caching.Redis.StackExchange.csproj
+		SccProjectName4 = EntityFramework.Caching.Redis.StackExchange
+		SccLocalPath4 = EntityFramework.Caching.Redis.StackExchange
+		SccProjectUniqueName5 = Tester\\Tester.csproj
+		SccProjectName5 = Tester
+		SccLocalPath5 = Tester
+		SccProjectUniqueName6 = EntityFramework.Caching.InMemory\\EntityFramework.Caching.InMemory.csproj
+		SccProjectName6 = EntityFramework.Caching.InMemory
+		SccLocalPath6 = EntityFramework.Caching.InMemory
+	EndGlobalSection
+EndGlobal

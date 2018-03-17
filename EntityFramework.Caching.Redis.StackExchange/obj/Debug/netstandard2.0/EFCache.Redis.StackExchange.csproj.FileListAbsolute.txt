@@ -1,0 +1,13 @@
+D:\projects\EFCache-master\EFCache.Redis.StackExchange\bin\Debug\netstandard2.0\EFCache.Redis.StackExchange.deps.json
+D:\projects\EFCache-master\EFCache.Redis.StackExchange\bin\Debug\netstandard2.0\EFCache.Redis.StackExchange.dll
+D:\projects\EFCache-master\EFCache.Redis.StackExchange\obj\Debug\netstandard2.0\EFCache.Redis.StackExchange.csprojResolveAssemblyReference.cache
+D:\projects\EFCache-master\EFCache.Redis.StackExchange\obj\Debug\netstandard2.0\EFCache.Redis.StackExchange.csproj.CoreCompileInputs.cache
+D:\projects\EFCache-master\EFCache.Redis.StackExchange\obj\Debug\netstandard2.0\EFCache.Redis.StackExchange.AssemblyInfoInputs.cache
+D:\projects\EFCache-master\EFCache.Redis.StackExchange\obj\Debug\netstandard2.0\EFCache.Redis.StackExchange.AssemblyInfo.cs
+D:\projects\EFCache-master\EFCache.Redis.StackExchange\bin\Debug\netstandard2.0\EFCache.dll
+D:\projects\EFCache-master\EFCache.Redis.StackExchange\bin\Debug\netstandard2.0\Microsoft.Extensions.Options.dll
+D:\projects\EFCache-master\EFCache.Redis.StackExchange\bin\Debug\netstandard2.0\EntityFramework.dll
+D:\projects\EFCache-master\EFCache.Redis.StackExchange\bin\Debug\netstandard2.0\EFCache.pdb
+D:\projects\EFCache-master\EFCache.Redis.StackExchange\bin\Debug\netstandard2.0\EFCache.dll.config
+D:\projects\EFCache-master\EFCache.Redis.StackExchange\bin\Debug\netstandard2.0\Microsoft.Extensions.Options.xml
+D:\projects\EFCache-master\EFCache.Redis.StackExchange\bin\Debug\netstandard2.0\EntityFramework.xml

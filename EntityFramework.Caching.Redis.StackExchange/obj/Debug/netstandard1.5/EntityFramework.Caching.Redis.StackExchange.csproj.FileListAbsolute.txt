@@ -1,0 +1,14 @@
+D:\projects\EFCache-master\EntityFramework.Caching.Redis.StackExchange\bin\Debug\netstandard1.5\EntityFramework.Caching.Redis.StackExchange.deps.json
+D:\projects\EFCache-master\EntityFramework.Caching.Redis.StackExchange\bin\Debug\netstandard1.5\EntityFramework.Caching.Redis.StackExchange.dll
+D:\projects\EFCache-master\EntityFramework.Caching.Redis.StackExchange\bin\Debug\netstandard1.5\EntityFramework.Caching.Redis.StackExchange.pdb
+D:\projects\EFCache-master\EntityFramework.Caching.Redis.StackExchange\bin\Debug\netstandard1.5\EntityFramework.Caching.Abstractions.dll
+D:\projects\EFCache-master\EntityFramework.Caching.Redis.StackExchange\bin\Debug\netstandard1.5\Microsoft.Extensions.Options.dll
+D:\projects\EFCache-master\EntityFramework.Caching.Redis.StackExchange\bin\Debug\netstandard1.5\EntityFramework.Caching.Abstractions.pdb
+D:\projects\EFCache-master\EntityFramework.Caching.Redis.StackExchange\bin\Debug\netstandard1.5\Microsoft.Extensions.Options.xml
+D:\projects\EFCache-master\EntityFramework.Caching.Redis.StackExchange\obj\Debug\netstandard1.5\EntityFramework.Caching.Redis.StackExchange.csprojResolveAssemblyReference.cache
+D:\projects\EFCache-master\EntityFramework.Caching.Redis.StackExchange\obj\Debug\netstandard1.5\EntityFramework.Caching.Redis.StackExchange.csproj.CoreCompileInputs.cache
+D:\projects\EFCache-master\EntityFramework.Caching.Redis.StackExchange\obj\Debug\netstandard1.5\EntityFramework.Caching.Redis.StackExchange.AssemblyInfoInputs.cache
+D:\projects\EFCache-master\EntityFramework.Caching.Redis.StackExchange\obj\Debug\netstandard1.5\EntityFramework.Caching.Redis.StackExchange.AssemblyInfo.cs
+D:\projects\EFCache-master\EntityFramework.Caching.Redis.StackExchange\obj\Debug\netstandard1.5\EntityFramework.Caching.Redis.StackExchange.csproj.CopyComplete
+D:\projects\EFCache-master\EntityFramework.Caching.Redis.StackExchange\obj\Debug\netstandard1.5\EntityFramework.Caching.Redis.StackExchange.dll
+D:\projects\EFCache-master\EntityFramework.Caching.Redis.StackExchange\obj\Debug\netstandard1.5\EntityFramework.Caching.Redis.StackExchange.pdb

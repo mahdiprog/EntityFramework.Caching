@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>EF.Caching.InMemory</id>
+    <version>1.0.0</version>
+    <authors>Mahdi Haji Abdolvahab</authors>
+    <owners>Mahdi Haji Abdolvahab</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <licenseUrl>https://opensource.org/licenses/MIT</licenseUrl>
+    <description>In Memory Cache Implementation of Second Layer Entity Framework Cache
+refrenced by https://www.nuget.org/packages/EF.Caching.Cache</description>
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="EF.Caching.Abstractions" version="1.0.1" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Options" version="2.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\projects\EFCache-master\EntityFramework.Caching.InMemory\bin\Debug\netstandard2.0\EntityFramework.Caching.InMemory.dll" target="lib\netstandard2.0\EntityFramework.Caching.InMemory.dll" />
+  </files>
+</package>

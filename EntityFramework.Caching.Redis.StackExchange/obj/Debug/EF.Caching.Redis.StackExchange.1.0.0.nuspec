@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>EF.Caching.Redis.StackExchange</id>
+    <version>1.0.0</version>
+    <authors>Mahdi Haji Abdolvahab</authors>
+    <owners>Mahdi Haji Abdolvahab</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <licenseUrl>https://opensource.org/licenses/MIT</licenseUrl>
+    <description>Redis Implementation of Second Layer Entity Framework Cache using StackExchange Library</description>
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="EF.Caching.Abstractions" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Options" version="2.0.0" exclude="Build,Analyzers" />
+        <dependency id="StackExchange.Redis" version="1.2.6" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\projects\EFCache-master\EntityFramework.Caching.Redis.StackExchange\bin\Debug\netstandard2.0\EntityFramework.Caching.Redis.StackExchange.dll" target="lib\netstandard2.0\EntityFramework.Caching.Redis.StackExchange.dll" />
+  </files>
+</package>

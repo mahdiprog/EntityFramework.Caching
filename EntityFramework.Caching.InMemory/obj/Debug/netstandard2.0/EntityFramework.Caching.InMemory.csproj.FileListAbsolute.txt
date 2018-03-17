@@ -1,0 +1,12 @@
+D:\projects\EFCache-master\EntityFramework.Caching.InMemory\bin\Debug\netstandard2.0\EntityFramework.Caching.InMemory.deps.json
+D:\projects\EFCache-master\EntityFramework.Caching.InMemory\bin\Debug\netstandard2.0\EntityFramework.Caching.InMemory.dll
+D:\projects\EFCache-master\EntityFramework.Caching.InMemory\bin\Debug\netstandard2.0\EntityFramework.Caching.Abstractions.dll
+D:\projects\EFCache-master\EntityFramework.Caching.InMemory\bin\Debug\netstandard2.0\EntityFramework.Caching.Abstractions.pdb
+D:\projects\EFCache-master\EntityFramework.Caching.InMemory\obj\Debug\netstandard2.0\EntityFramework.Caching.InMemory.csprojResolveAssemblyReference.cache
+D:\projects\EFCache-master\EntityFramework.Caching.InMemory\obj\Debug\netstandard2.0\EntityFramework.Caching.InMemory.csproj.CoreCompileInputs.cache
+D:\projects\EFCache-master\EntityFramework.Caching.InMemory\obj\Debug\netstandard2.0\EntityFramework.Caching.InMemory.AssemblyInfoInputs.cache
+D:\projects\EFCache-master\EntityFramework.Caching.InMemory\obj\Debug\netstandard2.0\EntityFramework.Caching.InMemory.AssemblyInfo.cs
+D:\projects\EFCache-master\EntityFramework.Caching.InMemory\obj\Debug\netstandard2.0\EntityFramework.Caching.InMemory.csproj.CopyComplete
+D:\projects\EFCache-master\EntityFramework.Caching.InMemory\bin\Debug\netstandard2.0\EntityFramework.Caching.InMemory.pdb
+D:\projects\EFCache-master\EntityFramework.Caching.InMemory\obj\Debug\netstandard2.0\EntityFramework.Caching.InMemory.dll
+D:\projects\EFCache-master\EntityFramework.Caching.InMemory\obj\Debug\netstandard2.0\EntityFramework.Caching.InMemory.pdb

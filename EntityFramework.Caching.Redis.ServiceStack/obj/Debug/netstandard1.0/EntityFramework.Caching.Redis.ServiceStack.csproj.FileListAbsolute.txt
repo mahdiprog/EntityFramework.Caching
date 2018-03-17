@@ -1,0 +1,4 @@
+D:\projects\EFCache-master\EntityFramework.Caching.Redis.ServiceStack\obj\Debug\netstandard1.0\EntityFramework.Caching.Redis.ServiceStack.csprojResolveAssemblyReference.cache
+D:\projects\EFCache-master\EntityFramework.Caching.Redis.ServiceStack\obj\Debug\netstandard1.0\EntityFramework.Caching.Redis.ServiceStack.csproj.CoreCompileInputs.cache
+D:\projects\EFCache-master\EntityFramework.Caching.Redis.ServiceStack\obj\Debug\netstandard1.0\EntityFramework.Caching.Redis.ServiceStack.AssemblyInfoInputs.cache
+D:\projects\EFCache-master\EntityFramework.Caching.Redis.ServiceStack\obj\Debug\netstandard1.0\EntityFramework.Caching.Redis.ServiceStack.AssemblyInfo.cs

@@ -1,0 +1,9 @@
+D:\projects\EFCache-master\EntityFramework.Caching.Abstractions\bin\Debug\netstandard1.0\EntityFramework.Caching.Abstractions.deps.json
+D:\projects\EFCache-master\EntityFramework.Caching.Abstractions\bin\Debug\netstandard1.0\EntityFramework.Caching.Abstractions.dll
+D:\projects\EFCache-master\EntityFramework.Caching.Abstractions\bin\Debug\netstandard1.0\EntityFramework.Caching.Abstractions.pdb
+D:\projects\EFCache-master\EntityFramework.Caching.Abstractions\obj\Debug\netstandard1.0\EntityFramework.Caching.Abstractions.csprojResolveAssemblyReference.cache
+D:\projects\EFCache-master\EntityFramework.Caching.Abstractions\obj\Debug\netstandard1.0\EntityFramework.Caching.Abstractions.csproj.CoreCompileInputs.cache
+D:\projects\EFCache-master\EntityFramework.Caching.Abstractions\obj\Debug\netstandard1.0\EntityFramework.Caching.Abstractions.AssemblyInfoInputs.cache
+D:\projects\EFCache-master\EntityFramework.Caching.Abstractions\obj\Debug\netstandard1.0\EntityFramework.Caching.Abstractions.AssemblyInfo.cs
+D:\projects\EFCache-master\EntityFramework.Caching.Abstractions\obj\Debug\netstandard1.0\EntityFramework.Caching.Abstractions.dll
+D:\projects\EFCache-master\EntityFramework.Caching.Abstractions\obj\Debug\netstandard1.0\EntityFramework.Caching.Abstractions.pdb
